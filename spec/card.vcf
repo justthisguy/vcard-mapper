@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jones;Robert;Harry;Dr;Jr
+FN:Dr Bob Jones, Jr
+NICKNAME:Bob Jones
+ORG:Steam Rollers, Inc;Hollywood Division
+TEL;type=WORK;type=VOICE;type=pref:(321) 555-1234 x220
+TEL;type=MAIN:(800) 555-1234
+ADR;type=WORK;type=pref:;;150 Market;San Francisco;CA;94103-9186;
+ADR;type=HOME:;;9895 De Anza Blvd;Cupertino;CA;95014;
+CATEGORIES:Business,Stunts
+END:VCARD
